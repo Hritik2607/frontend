@@ -1,0 +1,53 @@
+.formDiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.formLabel {
+    color: #FF2D00;
+    font-family: Nokora, sans-serif;
+    font-size: 1.5rem;
+    /* line-height: 2.25rem36px; */
+    font-weight: 700;
+    position: relative;
+}
+
+.formInput {
+    padding-inline: 0.5rem;
+    padding-block: 0.25rem;
+    border-radius: 0.5rem/* 8px */;
+    font-size: 1.25rem;
+    line-height: 2rem/* 32px */;
+    outline: none;
+}
+
+.formInput:focus{
+    border-bottom: 1px solid #FF7A00; 
+
+}
+
+option:checked,
+  option:hover {
+    background-color: #FF7A00;
+    color: white;
+  }
+
+  @media screen and (max-width: 768px) {
+    .formLabel {
+        color: #FF2D00;
+        font-family: Nokora, sans-serif;
+        font-size: 0.85rem;
+        /* line-height: 2.25rem36px; */
+        font-weight: 500;
+        position: relative;
+    }
+
+    .formInput {
+        padding-inline: 0.3rem;
+        padding-block: 0.2rem;
+        border-radius: 0.5rem/* 8px */;
+        font-size: 0.65rem;
+        line-height: 2rem/* 32px */;
+        outline: none;
+    }
+  }

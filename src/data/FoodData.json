@@ -1,0 +1,427 @@
+[
+    {
+        "id": 1,
+        "name": "Paneer Masala",
+        "price": 150,
+        "rating": 4.5,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275055/FoodApp/Order%20Online/Food%20Thumbnail/p8owvhlwqwumwy6p0u5t.png"
+    },
+    {
+        "id": 2,
+        "name": "Idli",
+        "price": 50,
+        "rating": 4.6,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275053/FoodApp/Order%20Online/Food%20Thumbnail/kwq0cjc2jtsn3udnjygh.png"
+    },
+    {
+        "id": 3,
+        "name": "Chicken Biryani",
+        "price": 160,
+        "rating": 4.8,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/snlz96aawyhrf0ou4nxx.png"
+    },
+    {
+        "id": 4,
+        "name": "Pav Bhaji",
+        "price": 50,
+        "rating": 4.7,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275051/FoodApp/Order%20Online/Food%20Thumbnail/jgb900v2uoxskcgnpa4p.png"
+    },
+    {
+        "id": 5,
+        "name": "Cheese Pizza",
+        "price": 150,
+        "rating": 4.6,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275051/FoodApp/Order%20Online/Food%20Thumbnail/kedpqpvxz12jppruvw2a.png"
+    },
+    {
+        "id": 6,
+        "name": "Lasagna",
+        "price": 250,
+        "rating": 4.4,
+        "category": "Continental",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275054/FoodApp/Order%20Online/Food%20Thumbnail/v9htedn1mijtawegqwhb.png"
+    },
+    {
+        "id": 7,
+        "name": "Cheese Cake",
+        "price": 120,
+        "rating": 4.9,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/xz0yryswfz4l8gjizlmd.png"
+    },
+    {
+        "id": 8,
+        "name": "Cold Coffee + Ice Cr.",
+        "price": 150,
+        "rating": 4.5,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/gsaqojk64npom7xuz9mn.png"
+    },
+    {
+        "id": 9,
+        "name": "Noodles",
+        "price": 120,
+        "rating": 4.6,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275054/FoodApp/Order%20Online/Food%20Thumbnail/s402fygkhfip2guj5dl6.png"
+    },
+    {
+        "id": 10,
+        "name": "Cream Cake",
+        "price": 350,
+        "rating": 4.5,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/rvhtbljccrfv4cu4fgou.png"
+    },
+    {
+        "id": 11,
+        "name": "Coffee",
+        "price": 60,
+        "rating": 4.5,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/bkrqmnmlyq7vxr6vgcn4.png"
+    },
+    {
+        "id": 12,
+        "name": "Chole Masala",
+        "price": 120,
+        "rating": 4.5,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/lyibbihkwdj8qsde60hb.png"
+    },
+    {
+        "id": 13,
+        "name": "Aloo Paratha",
+        "price": 50,
+        "rating": 4.6,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/jgsfin1ro7xu8aatjcvx.png"
+    },
+    {
+        "id": 14,
+        "name": "Chinese Hotpot",
+        "price": 200,
+        "rating": 4.4,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/qskwflundgvipcidj1e4.png"
+    },
+    {
+        "id": 15,
+        "name": "Spring Rolls",
+        "price": 150,
+        "rating": 4.5,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/zll6r9nublm1crfnzswd.png"
+    },
+    {
+        "id": 16,
+        "name": "Fruit Yogurt",
+        "price": 75,
+        "rating": 4.6,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/jxbhh6ftiiwmoerw5pai.png"
+    },
+    {
+        "id": 17,
+        "name": "Gulab Jamun",
+        "price": 150,
+        "rating": 4.8,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/hjouhkw5cnf81ptg09jq.png"
+    },
+    {
+        "id": 18,
+        "name": "Pudding",
+        "price": 135,
+        "rating": 4.9,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/gmmguh2yfpdtxxidosnr.png"
+    },
+    {
+        "id": 19,
+        "name": "Kaju Katli",
+        "price": 150,
+        "rating": 4.8,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/kuv72paicq0juahoyqsy.png"
+    },
+    {
+        "id": 20,
+        "name": "Ras Malai",
+        "price": 180,
+        "rating": 4.9,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/uoc8aufdpgyaesgx7717.png"
+    },
+    {
+        "id": 21,
+        "name": "Ice Cream",
+        "price": 100,
+        "rating": 4.9,
+        "category": "Dessert",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/ofuys9yzq6xla8srksp9.png"
+    },
+    {
+        "id": 22,
+        "name": "Masala Tea",
+        "price": 40,
+        "rating": 4.5,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/v51kxeii7ccgdhalce69.png"
+    },
+    {
+        "id": 23,
+        "name": "Cappuccino",
+        "price": 80,
+        "rating": 4.6,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/zoughthspjunsfjwsprl.png"
+    },
+    {
+        "id": 24,
+        "name": "Pasta",
+        "price": 100,
+        "rating": 4.6,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/o8yr6u6l4fnszniex2mh.png"
+    },
+    {
+        "id": 25,
+        "name": "Prawn Pie",
+        "price": 220,
+        "rating": 4.5,
+        "category": "Continental",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/xe01xflee1o8k6khvs4s.png"
+    },
+    {
+        "id": 26,
+        "name": "Risotto",
+        "price": 150,
+        "rating": 4.4,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/t7wtit16to1avvgyle0e.png"
+    },
+    {
+        "id": 27,
+        "name": "Roesti and Salad",
+        "price": 190,
+        "rating": 4.5,
+        "category": "Continental",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/cvixakfcsydg8sinmdv3.png"
+    },
+    {
+        "id": 28,
+        "name": "Dosa",
+        "price": 80,
+        "rating": 4.6,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/toy88n0s4jyu67lgzgyt.png"
+    },
+    {
+        "id": 29,
+        "name": "Chickpea Soup",
+        "price": 150,
+        "rating": 4.5,
+        "category": "Continental",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/ntrr7qa7tgqjk4d6rnbi.png"
+    },
+    {
+        "id": 30,
+        "name": "Orange Juice",
+        "price": 80,
+        "rating": 4.3,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/lki0bup7zjt4ofns0wek.png"
+    },
+    {
+        "id": 31,
+        "name": "Lemon Lime",
+        "price": 40,
+        "rating": 4.4,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/niblnucnveru1dzqkybq.png"
+    },
+    {
+        "id": 32,
+        "name": "Ginger Ale",
+        "price": 60,
+        "rating": 4.2,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/bqc6h2qw32garizohpyq.png"
+    },
+    {
+        "id": 33,
+        "name": "Hot Chocolate",
+        "price": 150,
+        "rating": 4.6,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/s5wabo6qdqjwrjqfvron.png"
+    },
+    {
+        "id": 34,
+        "name": "Coke",
+        "price": 50,
+        "rating": 4.7,
+        "category": "Beverages",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/vg0vuk6kctfo5jiaxcpm.png"
+    },
+    {
+        "id": 35,
+        "name": "Cheesy Broccoli",
+        "price": 210,
+        "rating": 4.6,
+        "category": "Continental",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/a4ee2xdjlwkpiu6gbtmv.png"
+    },
+    {
+        "id": 36,
+        "name": "Batter Fish",
+        "price": 190,
+        "rating": 4.5,
+        "category": "Continental",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/tpqwcsqwelh2oloo7uzy.png"
+    },
+    {
+        "id": 37,
+        "name": "Glazed Ham",
+        "price": 270,
+        "rating": 4.4,
+        "category": "Continental",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/biqhq0tk9rb8jtvlp6pf.png"
+    },
+    {
+        "id": 38,
+        "name": "Gnocchi",
+        "price": 200,
+        "rating": 4.4,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/arra673yighyv12qnxmy.png"
+    },
+    {
+        "id": 39,
+        "name": "Arancini",
+        "price": 130,
+        "rating": 4.4,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/gu4bx01ya31i8z6o7v71.png"
+    },
+    {
+        "id": 40,
+        "name": "Fried Panzerotto",
+        "price": 150,
+        "rating": 4.2,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/dhxovkqzjpoigzm54h5q.png"
+    },
+    {
+        "id": 41,
+        "name": "Minestrone",
+        "price": 220,
+        "rating": 4.4,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/r7pv4yvsfdifz9xoxeqa.png"
+    },
+    {
+        "id": 42,
+        "name": "Sardine in Saor",
+        "price": 180,
+        "rating": 4.4,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/g3g7qakh7xleb8zm67ml.png"
+    },
+    {
+        "id": 43,
+        "name": "Tortelli and Ravioli",
+        "price": 300,
+        "rating": 4.4,
+        "category": "Italian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/tbgyai10v5d7x6xbepbx.png"
+    },
+    {
+        "id": 44,
+        "name": "Dumplings",
+        "price": 100,
+        "rating": 4.8,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/cm6ls6baopmzlqv3myle.png"
+    },
+    {
+        "id": 45,
+        "name": "Mapo Tofu",
+        "price": 220,
+        "rating": 4.8,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/pjji2trwduc8dm5in89v.png"
+    },
+    {
+        "id": 46,
+        "name": "Fried Rice",
+        "price": 150,
+        "rating": 4.7,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/zwmrceamskjdkalq91a4.png"
+    },
+    {
+        "id": 47,
+        "name": "Manchow Soup",
+        "price": 60,
+        "rating": 4.8,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/az9xlhmvawuhszb4qzep.png"
+    },
+    {
+        "id": 48,
+        "name": "Veg Manchurian",
+        "price": 100,
+        "rating": 4.8,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/xx0i3okbonmfbetwweo5.png"
+    },
+    {
+        "id": 49,
+        "name": "Chicken Manchurian",
+        "price": 130,
+        "rating": 4.8,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/idhfcyisekfnt3sph68y.png"
+    },
+    {
+        "id": 50,
+        "name": "Honey Chilli Potato",
+        "price": 110,
+        "rating": 4.7,
+        "category": "Chinese",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275052/FoodApp/Order%20Online/Food%20Thumbnail/sqi3tgju3nfb7kdxljom.png"
+    },
+    {
+        "id": 51,
+        "name": "Dal Makhani",
+        "price": 130,
+        "rating": 4.9,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275053/FoodApp/Order%20Online/Food%20Thumbnail/ryddnovojha9q6vd98ly.png"
+    },
+    {
+        "id": 52,
+        "name": "Butter Chicken",
+        "price": 180,
+        "rating": 4.8,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275053/FoodApp/Order%20Online/Food%20Thumbnail/ocdrqaw74st6mcvsvu5h.png"
+    },
+    {
+        "id": 53,
+        "name": "Kebabs",
+        "price": 180,
+        "rating": 4.8,
+        "category": "Indian",
+        "image" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698275053/FoodApp/Order%20Online/Food%20Thumbnail/xkuzfe9xhspbngzohawh.png"
+    }
+]
+

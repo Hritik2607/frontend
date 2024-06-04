@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "category": "All",
+        "categoryImg" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698271141/FoodApp/Order%20Online/Category%20Icon/wj0deol2jqupe0knpgq4.png"
+    },
+    {
+        "id": 2,
+        "category": "Indian",
+        "categoryImg" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698271140/FoodApp/Order%20Online/Category%20Icon/fwawjf7veooqi1hjcnkm.png"
+    },
+    {
+        "id": 3,
+        "category": "Italian",
+        "categoryImg" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698271141/FoodApp/Order%20Online/Category%20Icon/svrf5s9yv9ilslvw2brd.png"
+    },
+    {
+        "id": 4,
+        "category": "Continental",
+        "categoryImg" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698271140/FoodApp/Order%20Online/Category%20Icon/iqsjo7lmjeyjen5ccb5c.png"
+    },
+    {
+        "id": 5,
+        "category": "Chinese",
+        "categoryImg" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698271140/FoodApp/Order%20Online/Category%20Icon/v0f9mvtyzbx0pv3dvpe4.png"
+    },
+    {
+        "id": 6,
+        "category": "Beverages",
+        "categoryImg" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698271140/FoodApp/Order%20Online/Category%20Icon/jqdqsarsfxgitty2hptr.png"
+    },
+    {
+        "id": 7,
+        "category": "Dessert",
+        "categoryImg" : "https://res.cloudinary.com/dbr6ar9it/image/upload/v1698271140/FoodApp/Order%20Online/Category%20Icon/jxgolorngyfdan5lblsn.png"
+    }
+]

@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@700&family=Nokora&family=Noticia+Text&family=Noto+Music&family=Noto+Sans:wght@400;600&family=Quando&family=Sniglet&family=Sofia+Sans&family=Sora:wght@600&family=Source+Code+Pro:wght@400;500&family=Nunito+Sans:opsz,wght@6..12,700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
